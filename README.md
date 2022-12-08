@@ -11,13 +11,12 @@ SquaryFi is an ESP-12E-based square LCD display that features a compact and appe
 * USB type-C
 * Battery connector
 * Charging IC(MCP73831)
-* ST7789 Driver 
 
 ## Features of LCD:
 
 * Operating voltage of 3.3v/5v
 * Resolution 240 x 240 pixels
-* I2C communication Interface
+* SPI communication Interface
 * 350 nits brightness
 * ST7789 driver
 * IPS display panel
@@ -25,3 +24,8 @@ SquaryFi is an ESP-12E-based square LCD display that features a compact and appe
 * ST7789 driver
 * Dimension 35 x 32.00mm
 * 65K RGB colors
+
+## Hardware Overview
+
+Image1
+
