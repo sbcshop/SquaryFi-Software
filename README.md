@@ -34,7 +34,7 @@ Image1
 
 ## Documentation
 
-* [SquaryFi Software](https://github.com/sbcshop/SquaryFi-Software)
+* [SquaryFi Hardware](https://github.com/sbcshop/SquaryFi-Hardware)
 * [Getting Started with NodeMCU](http://www.nodemcu.com/index_en.html)
 * [NodeMCU Github Examples](https://github.com/orgs/nodemcu/repositories)
 * [NodeMCU Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
