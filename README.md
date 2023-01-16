@@ -32,6 +32,10 @@ SquaryFi is an ESP-12E-based square LCD display that features a compact and appe
 Image1
 
 
+## Working
+
+
+
 ## Documentation
 
 * [SquaryFi Hardware](https://github.com/sbcshop/SquaryFi-Hardware)
