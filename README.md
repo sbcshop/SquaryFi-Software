@@ -31,3 +31,31 @@ SquaryFi is an ESP-12E-based square LCD display that features a compact and appe
 
 Image1
 
+
+## Documentation
+
+* [SquaryFi Software](https://github.com/sbcshop/SquaryFi-Software)
+* [Getting Started with NodeMCU](http://www.nodemcu.com/index_en.html)
+* [NodeMCU Github Examples](https://github.com/orgs/nodemcu/repositories)
+* [NodeMCU Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
+
+## Related Products
+
+* [SquaryPi](https://shop.sb-components.co.uk/products/squary?variant=40443840921683) -  RP2040 Varient
+
+ ![SquaryPi](https://cdn.shopify.com/s/files/1/1217/2104/products/1_5874b3b5-2a2f-453e-bf54-abbf2a26acb9.png?v=1670307456&width=300)
+ 
+ * [Roundy](https://shop.sb-components.co.uk/products/roundy?variant=39785171681363) - 1.28" Round LCD version based on ESP8266 and RP2040
+ 
+ ![Roundy](https://cdn.shopify.com/s/files/1/1217/2104/products/roundypi.png?v=1650457581&width=300)
+
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
+
+Please contact support@sb-components.co.uk for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
+</p>
+
+
