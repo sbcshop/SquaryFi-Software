@@ -50,6 +50,8 @@ To start working with our SquaryFi board follow the steps below:
 * 
 *
 
+***Step.4 - Compiling and uploading code*** in your SquaryFi board
+
 
 
 
