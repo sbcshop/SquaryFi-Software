@@ -36,7 +36,7 @@ Image1
 
 To start working with our SquaryFi board follow the steps below:
 
-***Step.1 - First thing first,*** install the CP2102 usb driver to detect our board as a usb device in your system. We have provided a ***Zip file(pololu-cp2102-windows-220616.rar)*** of it in this Repository. After downloading and extracting the zip file locate ***setup file*** compatible with your system and inatall this driver. You can also visit to below link for download the cp2102 drver for your system; ***https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads***
+***Step.1 - First thing first,*** install the CP2102 usb driver to detect our board as a usb device in your system. We have provided a ***Zip file(pololu-cp2102-windows-220616.rar)*** of it in this Repository. After downloading and extracting the zip file locate ***setup file*** compatible with your system and inatall this driver. You can also visit to below link for download the cp2102 drver for your system; ***https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads*** and download the CP210x VCP based on your operating system and install it.
 
 ***Step.2 - Get Ready Arduino IDE***, open the arduino ide and add extension link of ESP8266 board in preference section for this click on Files-->Preferences after this you will get a popup window loacate here Additional boards manager URLs and paste this link ***"http://arduino.esp8266.com/stable/package_esp8266com_index.json"*** the click on OK. After that click on ***Board Manager Icon*** located in left side of the IDE and search for ESP8266 board and Install it.
 
