@@ -44,7 +44,9 @@ To start working with our SquaryFi board follow the steps below:
 
 <img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr2.png" />
 
-***Step.3 - Adding necessary library*** in your arduino ide. For this  
+***Step.3 - Adding necessary library*** in your arduino ide. For this click on ***Library Manager icon*** left side of your arduino ide(just below to the Board Manager). After that search and install all necessary library used in this project.
+
+<img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr3.png" />
 
 * ArduinoJson 
 * Arduino_GFX_Library.h
