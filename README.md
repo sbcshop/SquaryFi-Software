@@ -47,7 +47,7 @@ To start working with our SquaryFi board follow the steps below:
 ***Step.3 - Adding necessary library*** in your arduino ide. For this  
 
 * ArduinoJson 
-* 
+* Arduino_GFX_Library.h
 *
 
 ***Step.4 - Compiling and uploading code*** in your SquaryFi board
