@@ -34,6 +34,16 @@ Image1
 
 ## Working
 
+To start working with our SquaryFi board follow the steps below:
+
+***Step.1 - Get Ready Arduino IDE***, open the arduino ide and add extension link of ESP8266 board in preference section for this click on Files-->Preferences after this you will get a popup window loacate here Additional boards manager URLs and paste this link ***"http://arduino.esp8266.com/stable/package_esp8266com_index.json"*** the click on OK. After that click on ***Board Manager Icon*** located in left side of the IDE and search for ESP8266 board and Install it.
+
+
+
+***Step.2 - Adding necessary library*** in our ide 
+
+
+
 
 
 ## Documentation
