@@ -60,7 +60,7 @@ To start working with our SquaryFi board follow the steps below:
 <img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr4.png" />
 
 
-
+Step.5 - After all these setups, click on ***Tick Button*** to compile your code and ***Arrow Button*** to compile and upload the currnet code in your SquaryFi board. 
 
 
 ## Documentation
