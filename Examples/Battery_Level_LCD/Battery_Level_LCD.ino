@@ -9,7 +9,7 @@ Arduino_GFX *gfx = create_default_Arduino_GFX();
 //Arduino_DataBus *bus = create_default_Arduino_DataBus();
 
 Arduino_DataBus *bus = new Arduino_ESP8266SPI(2 /* DC */, 15 /* CS */);
-Arduino_GFX *gfx = new Arduino_ST7789(bus, 16 /* RST */, 0 /* rotation */, true /* IPS */,240 /* width */, 240 /* height */,0 /* col offset 1 */, 80 /* row offset 1 */,53 /* col offset 2 */, 40 /* row offset 2 */);
+Arduino_GFX *gfx = new Arduino_ST7789(bus, 16 /* RST */, 0 /* rotation */, true /* IPS */,240 /* width */, 240 /* height */,0 /* col offset 1 */, 0 /* row offset 1 */,53 /* col offset 2 */, 40 /* row offset 2 */);
 #endif /* !defined(DISPLAY_DEV_KIT) */
 
 
