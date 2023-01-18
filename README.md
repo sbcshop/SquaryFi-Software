@@ -53,7 +53,9 @@ To start working with our SquaryFi board follow the steps below:
 
 <img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr3.png" />
 
-***Step.4 - For Compiling and uploading code*** in your SquaryFi board, Opoen Arduino IDE and open any Examples provided in this repository and plugin your board in your pc via USB type-c cable. After that look for the avilable port as shown below:
+***Step.4 - For Compiling and uploading code*** in your SquaryFi board, Open Arduino IDE and click on File section at the top left corner of IDE and open any Examples from downloaded repostory  provided here. Now, plugin your board in your pc via USB type-c cable and look for the port, if you properly connected your board to PC by installing compatible VCP driver you will get the avilable port as shown below:
+
+<img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr5.png" />
 
 <img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr4.png" />
 
