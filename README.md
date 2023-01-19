@@ -67,8 +67,8 @@ Step.5 - After all these setups, click on ***Tick Button*** to compile your code
 This folder contains exmaple code files according to the basic functionalities we can use in our SquaryFi board
 
 
-* Battery_Level_LCD
-*
+* ***Battery_Level_LCD*** is for display Battery Level on screen and give worning when the battery level decreases(Discharge).
+* ***SquaryFi_Client
 *
 *
 
