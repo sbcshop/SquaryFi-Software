@@ -16,7 +16,7 @@ Arduino_DataBus *bus = new Arduino_ESP8266SPI(2 /* DC */, 15 /* CS */);
 //Arduino_GFX *gfx = new Arduino_GC9A01(bus, 16 /* RST */, 0 /* rotation */, true /* IPS */);
 //Arduino_GFX *gfx = new Arduino_ST7789(bus, 16 /* RST */, 0 /* rotation */);
 Arduino_GFX *gfx = new Arduino_ST7789( bus, 16 /* RST */, 0 /* rotation */, true /* IPS */,240 /* width */, 240 /* height */,0 /* col offset 1 */, 0 /* row offset 1 */);
-  
+int LCD_BL = 12;
 #endif
 
 const char* ssid = "";         //Enter your ssid name
@@ -179,7 +179,8 @@ void setup() {
   Serial.begin(9600);
   gfx->begin();
   gfx->fillScreen(BLACK);
-
+pinMode(LCD_BL,OUTPUT);
+digitalWrite(LCD_BL,HIGH);  
 #ifdef TFT_BL
   pinMode(TFT_BL, OUTPUT);
   digitalWrite(TFT_BL, HIGH);
