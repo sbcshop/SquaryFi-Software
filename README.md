@@ -68,7 +68,9 @@ This folder contains exmaple code files according to the basic functionalities w
 
 
 * ***Battery_Level_LCD*** is for display Battery Level on screen and give worning when the battery level decreases(Discharge).
-* ***SquaryFi_Client
+
+* ***SquaryFi_Client*** is the exmaple code for cummunicating between your SquaryFi board and smartphone. The cummunication can be established by installing an    androide app provided in this Repository. After insatlling the app upload this code in your SquaryFi Board and when it will coonnect to your wifi it show an IP on display. Now, open the installed app and put the IP in addres section and port shold be 80 then click on connect. After succesfull connection you can send data to your SquaryFi board display by using mobile phone
+
 *
 *
 
