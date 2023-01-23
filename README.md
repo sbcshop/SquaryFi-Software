@@ -71,9 +71,7 @@ This folder contains exmaple code files according to the basic functionalities w
 
 * ***SquaryFi_Client*** is the exmaple code for cummunicating between your SquaryFi board and smartphone. The cummunication can be established by installing an    androide app provided in this Repository. After insatlling the app upload this code in your SquaryFi Board and when it will coonnect to your wifi it show an IP on display. Now, open the installed app and put the IP in addres section and port shold be 80 then click on connect. After succesfull connection you can send data to your SquaryFi board display by using mobile phone
 
-*
-*
-
+* ***wifi_weather_display*** is the example code for displaying weather data on Screen. For this you only have to update your wifi credentials and you can also change the location of weather data receive from.
 
 
 ## Documentation
