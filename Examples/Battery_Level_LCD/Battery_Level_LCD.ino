@@ -17,6 +17,7 @@ int analogInPin  = A0;    // Analog input pin
 int sensorValue;          // Analog Output of Sensor
 float calibration = 0.25; // Check Battery voltage using multimeter & add/subtract the value
 int bat_percentage;
+int TFT_BL = 12;
 
 void setup()
 {
@@ -26,10 +27,10 @@ void setup()
     gfx->begin();
     gfx->fillScreen(BLACK);
 
-#ifdef TFT_BL
+
     pinMode(TFT_BL, OUTPUT);
     digitalWrite(TFT_BL, HIGH);
-#endif
+
  
 }
  
