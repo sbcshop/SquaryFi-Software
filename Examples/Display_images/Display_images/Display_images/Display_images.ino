@@ -3,7 +3,7 @@
 #include "Not_all_heros_wear_capes_lettering.h" //Image 1
 #include "Metaverse.h"                          //Image 2
 #include "Flower_pot_with_flowers.h"            //Image 3
-#include "sb_logo.h"            //Image 3
+#include "sb_logo.h"            //Image 4
 
 TFT_eSPI ipsdisp= TFT_eSPI();           
 
