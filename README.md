@@ -73,7 +73,7 @@ This folder contains exmaple code files according to the basic functionalities w
 
 * ***wifi_weather_display*** is the example code for displaying weather data on Screen. For this you only have to update your wifi credentials and you can also change the location of weather data receive from.
 
-* ***Display_images*** is the example code of display images on TFT display. For open the code and add the necessary library in main code(Display_images.ino) upload this code to our SquaryFi board. In current exmple code we are showing four different images, you can also modify or add your images by converting it into Hex code(.h file) from below link;
+* ***Display_images*** is the example code of display images on TFT display. For this, open the code and add the necessary library in main code(Display_images.ino) upload this code to our SquaryFi board. In current exmple code we are showing four different images, you can also modify or add your images by converting it into Hex code(.h file) from below link;
 http://javl.github.io/image2cpp/
 
 
