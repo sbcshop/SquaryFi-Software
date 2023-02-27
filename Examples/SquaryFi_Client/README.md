@@ -4,4 +4,7 @@
 
 You may then transfer data from your smartphone to SquaryFi.
 
+Write your SquaryFi IP Adress in below Application
+
 <img src = "https://github.com/sbcshop/SquaryFi-Software/blob/main/images/server.JPG"/>
+
