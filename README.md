@@ -31,10 +31,15 @@ SquaryFi is an ESP-12E-based square LCD display that features a compact and appe
 
 <img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Squary%20Fi.png" />
 
-BUTTON 4 - Reset
+
 BUTTON 1 - Boot/Flash
+
+BUTTON 2 - GPIO10
+
+BUTTON 3 - GPIO9
+
 BUTTON 4 - Reset
-BUTTON 4 - Reset
+
 
 ## Working
 
