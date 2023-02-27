@@ -85,6 +85,8 @@ This folder contains exmaple code files according to the basic functionalities w
 * ***Display_images*** is the example code of display images on TFT display. For this, open the code and add the necessary library in main code(Display_images.ino) upload this code to our SquaryFi board. In current exmple code we are showing three different images, you can also modify or add your images by converting it into Hex code(.h file) from below link;
 http://javl.github.io/image2cpp/
 
+* ***Button_Demo*** In this example, if you press any of the buttons, B1, B2, and B3, an LED on GPIO16 Pin glows.
+
 
 ## Documentation
 
