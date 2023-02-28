@@ -49,10 +49,10 @@ To start working with our SquaryFi board follow the steps below:
 
 ***Step.2 - Getting Ready Arduino IDE***, open the arduino ide and add extension link of ESP8266 board in preference section for this click on Files-->Preferences after this you will get a popup window loacate here Additional boards manager URLs and paste this link ***"http://arduino.esp8266.com/stable/package_esp8266com_index.json"*** the click on OK. After that click on ***Board Manager Icon*** located in left side of the IDE and search for ESP8266 board and Install it.
 
-2. Open Arduino IDE
+* Open Arduino IDE
    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img6.JPG" />
 
-3. Now install Esp8266 board, for this go to file -> preferences
+* Now install Esp8266 board, for this go to file -> preferences
    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img7.png" />
   
    * Paste two urls,in "additional board manager urls"
@@ -71,15 +71,15 @@ To start working with our SquaryFi board follow the steps below:
     
    * Lets, check boards are install or not, go to tools -> boards
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img11.png" />
- 4. Now go to sketch -> include library -> manage libraries
+ * Now go to sketch -> include library -> manage libraries
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img12.png" />
      
- 5. Install all libraries which is mention below
+ * Install all libraries which is mention below
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img15.JPG" />
     
- 6. Choose Port and ESP8266 board from board manager
+ * Choose Port and ESP8266 board from board manager
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img16.png" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" /> 
 
