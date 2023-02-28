@@ -49,10 +49,29 @@ To start working with our SquaryFi board follow the steps below:
 
 ***Step.2 - Getting Ready Arduino IDE***, open the arduino ide and add extension link of ESP8266 board in preference section for this click on Files-->Preferences after this you will get a popup window loacate here Additional boards manager URLs and paste this link ***"http://arduino.esp8266.com/stable/package_esp8266com_index.json"*** the click on OK. After that click on ***Board Manager Icon*** located in left side of the IDE and search for ESP8266 board and Install it.
 
-<img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr1.png" />
+2. Open Arduino IDE
+   <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img6.JPG" />
 
-<img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr2.png" />
-
+3. Now install Esp8266 board, for this go to file -> preferences
+   <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img7.png" />
+  
+   * Paste two urls,in "additional board manager urls"
+   
+     ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
+     
+     ```https://dl.espressif.com/dl/package_esp32_index.json```
+     
+     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img8.png" />
+   
+   * Now install ESP8266 board, go tools -> boards -> board manager
+     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img9.png" />
+     
+   * Write ESP8266 in search bar
+     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img10.png" />
+    
+   * Lets, check boards are install or not, go to tools -> boards
+     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img11.png" />
+  
 ***Step.3 - Adding necessary library*** in your arduino ide. For this click on ***Library Manager icon*** left side of your arduino ide(just below to the Board Manager). After that search and install all necessary library used in this project.
 
 
