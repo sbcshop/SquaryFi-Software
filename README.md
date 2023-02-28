@@ -82,7 +82,7 @@ To start working with our SquaryFi board follow the steps below:
  6. Choose Port and ESP8266 board from board manager
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img16.png" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" /> 
-***Step.3 - Adding necessary library*** in your arduino ide. For this click on ***Library Manager icon*** left side of your arduino ide(just below to the Board Manager). After that search and install all necessary library used in this project.
+
 
 
 * ArduinoJson 
