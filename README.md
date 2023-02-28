@@ -84,12 +84,9 @@ To start working with our SquaryFi board follow the steps below:
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" /> 
 
 
-
-* ArduinoJson 
-* Arduino_GFX_Library.h
+Similarly install this library as well
 * TFT_eSPI.h
 
-<img src ="https://github.com/sbcshop/SquaryFi-Software/blob/main/images/Scr3.png" />
 
 ***Step.4 - For Compiling and uploading code*** in your SquaryFi board, Open Arduino IDE and click on ***File section*** at the top left corner of ***IDE*** and open any Example from downloaded repostory  provided here. Now, plugin your board in your pc via USB type-c cable and look for the port, if ***you properly connected your board to PC by installing compatible VCP driver(as in Step.1)*** you will get the available port as shown below:
 
