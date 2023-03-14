@@ -18,8 +18,7 @@ void setup() {
 
 void loop() {
 
-
-  ipsdisp.pushImage(0,0,240,240,image4sb_logo);    //ipsdisp.pushImage(x1,y1,x2,y2,array of image 3 containting 16-bit RGB565 data of each pixel) 
+ ipsdisp.pushImage(0,0,240,240,image4sb_logo);    //ipsdisp.pushImage(x1,y1,x2,y2,array of image 3 containting 16-bit RGB565 data of each pixel) 
  ipsdisp.setCursor(0,295,4);               //ipsdisp.setCurser(x axis,y axis,text font style i.e 1/2/4/6)
  ipsdisp.setTextColor(TFT_CYAN,TFT_BLACK); //ipsdisp.setTextColor(text color,text background color)
  ipsdisp.println(F("IMG TYP:HD Photo     "));
