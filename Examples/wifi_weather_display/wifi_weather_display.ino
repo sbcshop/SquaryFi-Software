@@ -19,11 +19,11 @@ Arduino_GFX *gfx = new Arduino_ST7789( bus, 16 /* RST */, 0 /* rotation */, true
   
 #endif
 
-const char* ssid = "Tech SB_2G";
-const char* password = "jc643111h@";
+const char* ssid = "XYZ"; //WIFI SSID
+const char* password = "password"; //wifi password
 
 const String api_1 = "http://api.openweathermap.org/data/2.5/weather?q=";
-const String qLocation = "Noida,IN"; // write city name,country name
+const String qLocation = "city name,country name"; // write city name,country name
 const String api_2 = "&units=metric"; //request return temp in celsius
 const String api_3 = "&APPID=";
 const String api_key = "dff350f24230806454d5f48aebbf97bb";  //your api key
