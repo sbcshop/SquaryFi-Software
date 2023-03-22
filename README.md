@@ -75,6 +75,7 @@ To start working with our SquaryFi board follow the steps below:
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img12.png" />
      
  * Install all libraries which is mention below
+    ***Install Arduino_GFX_Library.h version 1.3.1 other version has some issue***
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img15.JPG" />
