@@ -108,7 +108,7 @@ This folder contains exmaple code files according to the basic functionalities w
 http://javl.github.io/image2cpp/
 
 * ***Button_Demo*** In this example, if you press any of the buttons, B1, B2, and B3, an LED on GPIO16 Pin glows.
-  GPIO9 is internally used to control the flash memory, that why when you press the button the code crashes, kindly do not use it when you use the display
+  Button3/GPIO9 is internally used to control the flash memory, that why when you press the button the code crashes, kindly do not use it when you use the display
 
 
 ## Documentation
