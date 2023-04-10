@@ -19,6 +19,7 @@ void loop()
   if (value1 == LOW || value2 == LOW || value3 == LOW) //if any of button is pressed then led will glow
   {
    digitalWrite(led,LOW);
+   pinMode(button1, INPUT_PULLUP);
   }
   else
   {
